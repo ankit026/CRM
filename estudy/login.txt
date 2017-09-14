@@ -1,0 +1,4 @@
+create table login(
+id varchar2(50) primary key,
+dbpass varchar2(50)
+);
